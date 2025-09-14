@@ -22,3 +22,7 @@ const employees = [
 ];
 
 // Start coding here
+employees.pop()
+// employees.splice(4,1)
+
+console.log(employees)
